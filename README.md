@@ -4,7 +4,7 @@
 
 ## 📢 Duyuru
 
-Botun fiyatını öğrenmek için `siesla` dm yazabilirsiniz.
+Botun fiyatını öğrenmek için ve botla ilgili daha çok bilgi almak için `siesla` dm yazabilirsiniz.
 
 ## ✨ Proje Hakkında Bilgi
 
